@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_contact_view" value="name:seno;datatype:int,name:description;datatype:string,name:content;datatype:string" />
+</info>

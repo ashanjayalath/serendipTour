@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_resorts_view" value="name:seno;datatype:int,name:name;datatype:string,name:variable;datatype:string,name:logo;datatype:blob,name:description;datatype:blob,name:country;datatype:int,name:place;datatype:int,name:comfort;datatype:string,name:airport;datatype:string,name:airplane;datatype:string,name:area;datatype:string,name:location;datatype:blob" />
+</info>

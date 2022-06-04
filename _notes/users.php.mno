@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user_edit" value="name:seno;datatype:int,name:name;datatype:string,name:username;datatype:string,name:password;datatype:string" />
+</info>

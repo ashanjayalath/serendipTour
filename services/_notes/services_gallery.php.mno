@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_service_getinfo" value="name:seno;datatype:int,name:heading;datatype:string,name:description;datatype:blob,name:phone;datatype:string,name:email;datatype:string,name:reservation;datatype:string" />
+	<infoitem key="UD_service_gallery" value="name:seno;datatype:int,name:service_id;datatype:int,name:image;datatype:blob" />
+</info>

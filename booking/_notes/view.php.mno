@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_bookings_view" value="name:seno;datatype:int,name:hotel_id;datatype:int,name:room_id;datatype:int,name:check_in;datatype:date,name:check_out;datatype:date,name:adult;datatype:int,name:child;datatype:int,name:infant;datatype:int,name:rooms;datatype:int,name:name;datatype:string,name:phone;datatype:string,name:email;datatype:string,name:remark;datatype:blob,name:time_date;datatype:timestamp" />
+	<infoitem key="UD_hotel_info" value="name:seno;datatype:int,name:name;datatype:string,name:variable;datatype:string,name:logo;datatype:blob,name:description;datatype:blob,name:country;datatype:string,name:place;datatype:string,name:comfort;datatype:string,name:airport;datatype:string,name:airplane;datatype:string,name:area;datatype:string,name:location;datatype:blob" />
+	<infoitem key="UD_room_info" value="name:seno;datatype:int,name:resort_id;datatype:int,name:title;datatype:string,name:description;datatype:blob,name:amount;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_feedback_view" value="name:seno;datatype:int,name:name;datatype:string,name:email;datatype:string,name:message;datatype:blob,name:rate;datatype:real,name:status;datatype:string" />
+</info>

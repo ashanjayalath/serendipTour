@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_about" value="name:seno;datatype:int,name:about;datatype:blob,name:vision;datatype:blob,name:mission;datatype:blob,name:what_we_offer;datatype:blob,name:why_unique;datatype:blob" />
+</info>

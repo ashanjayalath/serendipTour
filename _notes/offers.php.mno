@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_offers" value="name:seno;datatype:int,name:heading;datatype:string,name:description;datatype:blob,name:phone;datatype:string,name:email;datatype:string,name:reservation;datatype:string" />
+</info>
